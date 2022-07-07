@@ -16,7 +16,7 @@ int B_to_D(int arr[], int size)
              {   
                 dec_value+=base; 
                 //int sum = sum+ (2*2);
-                base=base*2; 
+                base=base*2; //change to in git
              }
             
           
